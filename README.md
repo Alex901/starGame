@@ -1,0 +1,2 @@
+# starGame
+a small game
